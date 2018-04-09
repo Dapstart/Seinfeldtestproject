@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>my first website</title>
+        <link href="Styles.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+    
+        <h1>WHAT SEINFELD CHARACTER ARE YOU??? (ULTIMATE QUIZ)</h1>
+        <p>does guy fieri like you?</p>
+        <img src="/Users/robert.roe/Desktop/firstwebsite/Images/tmg-gift_guide_default.jpg" alt="My dog :)" width="500px"/>
+  
+        <a href="2b">if guy fieri likes you click here</a>
+        
+        <h1>Welcome to my website</h1>
+        <p>Does guy fieri hate you?</p>
+        <img src="/Users/robert.roe/Desktop/firstwebsite/Images/02d.jpg" alt="My dog :)" width="500px"/>
+    
+        <a href="3b">if If guy wants you dead click here</a>
+    </body>
+</html>

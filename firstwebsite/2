@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>my first website</title>
+        <link href="Styles.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+    
+        <h1>WHAT SEINFELD CHARACTER ARE YOU??? (ULTIMATE QUIZ)</h1>
+        <p>Do you have anger problems?</p>
+        <img src="/Users/robert.roe/Desktop/firstwebsite/Images/angry-men-holding-hammer-over-red-paper-house-businessman-51856039.jpg" alt="My dog :)" width="500px"/>
+  
+        <a href="2b">if you have anger problems click here</a>
+        
+        <h1>Welcome to my website</h1>
+        <p>Do you have fun in your free time?</p>
+        <img src="/Users/robert.roe/Desktop/firstwebsite/Images/PcFYGWMwtx-2.png" alt="My dog :)" width="500px"/>
+    
+        <a href="3b">if you have fun in your free time click here</a>
+    </body>
+</html>

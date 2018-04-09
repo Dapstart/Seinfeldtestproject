@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>my first website</title>
+        <link href="Styles.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+    
+        <h1>WHAT SEINFELD CHARACTER ARE YOU??? (ULTIMATE QUIZ)</h1>
+        <p>Do you enjoy your job?</p>
+        <img src="/Users/robert.roe/Desktop/firstwebsite/Images/kh-pp-dream-job-happy-man-with-skyline-background.jpg" alt="Happy boi" width="500px"/>
+       
+        <a href="2"> if you enjoy your job click here</a>
+        
+        <h1>Welcome to my website</h1>
+        <p>Do you find your job boring?</p>
+        <img src="/Users/robert.roe/Desktop/firstwebsite/Images/large_thumb_candidate-1823871-2015-07-28-14-53-07.jpg" alt="Sad pants :(" width="500px"/>
+      
+        <a href="3">if you find your job boring click here</a>
+    </body>
+</html>

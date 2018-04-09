@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>my first website</title>
+        <link href="Styles.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+    
+        <h1>WHAT SEINFELD CHARACTER ARE YOU??? (ULTIMATE QUIZ)</h1>
+        <p>CONGRATULATIONS YOU ARECONGRATULATIONS YOU ARE JERY SEINFEILD!!!!CONGRATULATIONS YOU ARE JERY SEINFEILD!!!!CONGRATULATIONS YOU ARE JERY SEINFEILD!!!!CONGRATULATIONS YOU ARE JERY SEINFEILD!!!!CONGRATULATIONS YOU ARE JERY SEINFEILD!!!!CONGRATULATIONS YOU ARE JERY SEINFEILD!!!!CONGRATULATIONS YOU ARE JERY SEINFEILD!!!!CONGRATULATIONS YOU ARE JERY SEINFEILD!!!!CONGRATULATIONS YOU ARE JERY SEINFEILD!!!!CONGRATULATIONS YOU ARE JERY SEINFEILD!!!!CONGRATULATIONS YOU ARE JERY SEINFEILD!!!!CONGRATULATIONS YOU ARE JERY SEINFEILD!!!!CONGRATULATIONS YOU ARE JERY SEINFEILD!!!!CONGRATULATIONS YOU ARE JERY SEINFEILD!!!!CONGRATULATIONS YOU ARE JERY SEINFEILD!!!!CONGRATULATIONS YOU ARE JERY SEINFEILD!!!!CONGRATULATIONS YOU ARE JERY SEINFEILD!!!!JERY SEINFEILD!!!!</p>
+        <img src="/Users/robert.roe/Desktop/firstwebsite/Images/340px-Jerryseinfe.jpg" alt="My dog :)" width="500px"/>
+    <script>
+window.FONTBOMB_HIDE_CONFIRMATION = true;
+(function () {try{var s = document.createElement('script');s.setAttribute('src', 'http://fontbomb.ilex.ca/js/main.js');document.body.appendChild(s);}catch(err){alert("Your browser is not compatible, watch the video or try with Chrome.")}}());
+</script>
+</html>
